@@ -1,8 +1,8 @@
 
-### Hi there 👋
-This is Rati Kumari Jha
-Rational 👩‍🦰 Practical 👩 Observant
-Software Engineer 👩‍💻 Web Developer 👩‍💻 Technical Content Developer
+### Hi there 👋<br>
+This is Rati Kumari Jha<br>
+Rational 👩‍🦰 Practical 👩 Observant<br>
+Software Engineer 👩‍💻 Web Developer 👩‍💻 Technical Content Developer<br>
 
 
 
