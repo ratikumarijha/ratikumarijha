@@ -1,16 +1,16 @@
+
 ### Hi there 👋
+This is Rati Kumari Jha
+Rational 👩‍🦰 Practical 👩 Observant
+Software Engineer 👩‍💻 Web Developer 👩‍💻 Technical Content Developer
 
-<!--
-**ratikumarijha/ratikumarijha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Machine Learning and Java
+- 🌱 I’m currently learning Java, Cloud Computing, Azure
+- 👯 I’m looking to collaborate on Projects
+- 💬 Ask me about anything
+- 📫 How to reach me: ratikumari.acc@gmail.com
+- 😄 Pronouns: ...she/ her
+- ⚡ Fun fact: ...I am a Technical Content Developer too who loves to write
+
