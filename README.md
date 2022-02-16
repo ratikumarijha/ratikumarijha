@@ -6,8 +6,8 @@ Software Engineer 👩‍💻 Web Developer 👩‍💻 Technical Content Develo
 
 
 
-- 🔭 I’m currently working on Machine Learning and Java
-- 🌱 I’m currently learning Java, Cloud Computing, Azure
+- 🔭 I’m currently working on UI Development.
+- 🌱 I’m currently learning React JS, Cloud Computing, Azure
 - 👯 I’m looking to collaborate on Projects
 - 💬 Ask me about anything
 - 📫 How to reach me: ratikumari.acc@gmail.com
